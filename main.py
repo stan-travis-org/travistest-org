@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('Hello World! Hello TravisCI!!!')
     print_hi('Hello! Testing Travis - this is the next test for org')
     print_hi('Testing and testing')
+    print_hi('Testing and testing')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
