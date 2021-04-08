@@ -12,6 +12,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Hello World! Hello TravisCI!!!')
-    print_hi('Hello! Testing Travis - want to trigger by commit')
+    print_hi('Hello! Testing Travis - trigger from org')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
