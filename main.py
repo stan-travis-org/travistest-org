@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('Hello! Testing Travis - this is the next test for org')
     print_hi('Testing staging with no disabled flag')
     print_hi('Something new to differentiate')
+    print_hi('Something new to differentiate ..............................................................')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
